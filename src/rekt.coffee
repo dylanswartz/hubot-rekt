@@ -17,7 +17,7 @@
 module.exports = (robot) ->
   robot.respond /tell (.*) to git rekt/, (res) ->
     person = res.match[1]
-    res.reply "#{person}.gitrekt.com"
+    res.send "#{person}.gitrekt.com"
 
   robot.hear /(.*) git rekt/, ->
     person = res.match[1]

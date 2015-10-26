@@ -1,7 +1,7 @@
 {
   "name": "hubot-rekt",
   "description": "A hubot script that tells you to git rekt",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "fatal: Invalid gitfile format: .git <fatal: Invalid gitfile format: .git>",
   "license": "MIT",
 
