@@ -21,6 +21,6 @@ Then add **hubot-rekt** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot tell ryan to git rekt
+hubot>> ryan.gitrekt.com
 ```
