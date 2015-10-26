@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-rekt.git"
+    "url": "git://github.com/dylanswartz/hubot-rekt.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-rekt/issues"
+    "url": "https://github.com/dylanswartz/hubot-rekt/issues"
   },
 
   "dependencies": {
